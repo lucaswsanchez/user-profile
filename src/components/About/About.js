@@ -29,7 +29,7 @@ export default function About() {
         <Reveal direction="left">
           <motion.p>
             Soy John Doe, un programador apasionado que vive en San Rafael,
-            Mendoza. Me especializo en desarrollo web y de aplicaciones móviles,
+            Mendoza. Me especializo en desarrollo de aplicaciones web y móviles,
             creando soluciones innovadoras y eficientes.
           </motion.p>
         </Reveal>
